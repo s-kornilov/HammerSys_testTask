@@ -1,6 +1,4 @@
 # HammerSys_testTask
-<hr width="500" size="1"/>
- 🇷🇺
 <ul>
   <li>Главный экран для приложения сделан по шаблону Figma</li>
   <li>На главном экране реализованы баннеры для рекламы с поддержкой горизонтального скроллинга</li>
@@ -9,7 +7,6 @@
   <li>Приложение интегрировано с серверным API для получения данных. </li>
 </ul>
 <hr width="500" size="1"/>
-🇬🇧
 <ul>
   <li>The main screen of the application is designed according to the Figma template</li>
   <li>Banners for advertising with support for horizontal scrolling are implemented on the main screen</li>
