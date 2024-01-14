@@ -17,18 +17,6 @@
   <li>The application features dynamic adjustment of constraints (limitations) of interface elements during scrolling</li>
   <li>The application is integrated with a server API for data retrieval.</li>
 </ul>
-<hr width="500" size="1"/>
-🇪🇸
-<ul>
-  <li>La pantalla principal de la aplicación está diseñada según una plantilla de Figma</li>
-  <li>En la pantalla principal se han implementado banners publicitarios con soporte para desplazamiento horizontal</li>
-  <li>Se ha añadido un panel con categorías disponibles para elegir. El panel soporta desplazamiento horizontal</li>
-  <li>La aplicación cuenta con una función de ajuste dinámico de restricciones (limitaciones) de los elementos de la interfaz durante el desplazamiento</li>
-  <li>La aplicación está integrada con una API de servidor para la obtención de datos.</li>
-</ul>
 
-
-
-<center>
 https://github.com/s-kornilov/HammerSys_testTask/assets/62415938/7c2285cc-13df-4835-bfa3-afb5528b7592
-</center>
+
